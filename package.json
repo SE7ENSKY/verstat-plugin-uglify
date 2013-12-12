@@ -1,0 +1,7 @@
+{
+  "name": "verstat-plugin-uglify",
+  "version": "1.0.0",
+  "dependencies": {
+    "uglify-js": "~2.4.7"
+  }
+}
